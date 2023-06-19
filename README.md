@@ -1,3 +1,3 @@
 # test_data
 
-This rep will hold some test amplicon eDNA data
+This repo will hold some test amplicon eDNA data
