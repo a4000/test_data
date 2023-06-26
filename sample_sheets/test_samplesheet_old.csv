@@ -1,0 +1,4 @@
+sample,fastq_1,fastq_2,fw_index,rv_index,fw_primer,rv_primer,fw_no,rv_no
+F18_277,https://raw.githubusercontent.com/a4000/test_data/main/fqs/test_R1.fq.gz,https://raw.githubusercontent.com/a4000/test_data/main/fqs/test_R2.fq.gz,ATATCTAC,ATATGATG,GCCAGTAGTCATATGCTTGTCT,GCCTGCTGCCTTCCTT,F1,R1
+F18_278,https://raw.githubusercontent.com/a4000/test_data/main/fqs/test_R1.fq.gz,https://raw.githubusercontent.com/a4000/test_data/main/fqs/test_R2.fq.gz,ATATCTAC,TAGTGATG,GCCAGTAGTCATATGCTTGTCT,GCCTGCTGCCTTCCTT,F1,R2
+F18_279,https://raw.githubusercontent.com/a4000/test_data/main/fqs/test_R1.fq.gz,https://raw.githubusercontent.com/a4000/test_data/main/fqs/test_R2.fq.gz,ATATCTAC,AGCATATG,GCCAGTAGTCATATGCTTGTCT,GCCTGCTGCCTTCCTT,F1,R3
