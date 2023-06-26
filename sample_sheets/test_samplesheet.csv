@@ -2,3 +2,4 @@ sample,fastq_1,fastq_2
 12S_simulated-reads,https://raw.githubusercontent.com/a4000/test_data/main/fqs/12S_simulated-reads-1.fq.gz,https://raw.githubusercontent.com/a4000/test_data/main/fqs/12S_simulated-reads-2.fq.gz
 12S_simulated-reads-dupe,https://raw.githubusercontent.com/a4000/test_data/main/fqs/12S_simulated-reads-dupe-1.fq.gz,https://raw.githubusercontent.com/a4000/test_data/main/fqs/12S_simulated-reads-dupe-2.fq.gz
 16S_simulated-reads,https://raw.githubusercontent.com/a4000/test_data/main/fqs/16S_simulated-reads-1.fq.gz,https://raw.githubusercontent.com/a4000/test_data/main/fqs/16S_simulated-reads-2.fq.gz
+16S_simulated-reads-dupe,https://raw.githubusercontent.com/a4000/test_data/main/fqs/16S_simulated-reads-dupe-1.fq.gz,https://raw.githubusercontent.com/a4000/test_data/main/fqs/16S_simulated-reads-dupe-2.fq.gz
