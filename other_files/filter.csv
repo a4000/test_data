@@ -8,7 +8,6 @@ phylum,Chlorophyta
 phylum,Bacillariophyta
 phylum,dropped
 class,NA
-class,Mammalia
 class,Pelagophyceae
 class,Cryptophyceae
 class,Aves
@@ -18,3 +17,4 @@ class,Asteroidea
 class,Ophiuroidea
 class,Hexanauplia
 class,dropped
+order,Primates
